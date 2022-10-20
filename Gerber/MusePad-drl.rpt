@@ -1,0 +1,27 @@
+Drill report for F:\CAD\PCB\MusePad\MusePad.kicad_pcb
+Created on 10/19/2022 10:43:29 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'MusePad-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (19 holes)
+    T2  0.60mm  0.024"  (4 holes)  (with 4 slots)
+    T3  1.47mm  0.058"  (16 holes)
+
+    Total plated holes count 39
+
+
+Drill file 'MusePad-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.65mm  0.026"  (2 holes)
+    T2  1.75mm  0.069"  (8 holes)
+    T3  3.99mm  0.157"  (4 holes)
+
+    Total unplated holes count 14
